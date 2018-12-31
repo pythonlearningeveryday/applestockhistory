@@ -1,2 +1,2 @@
-It is an easy python code to grab contents of webpage. 
+Get the price history information of Apple stock. 
 # applestockhistory
